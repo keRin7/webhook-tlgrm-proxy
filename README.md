@@ -5,7 +5,7 @@ Requires global variables:
 * TLGRM_API_TOKEN="123456789:AA..."
 * TLGRM_CHAT_ID=-1234...
 * TLGRM_URL="https://api.telegram.org/bot123456789:AAExx.."
-* SEND_POST_ELEMENT="test"
+* SEND_POST_ELEMENT="text"
 
 Optional global variables:
 
